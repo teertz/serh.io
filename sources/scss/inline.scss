@@ -106,16 +106,18 @@ main {
         top:14px;
         right:10px;
 
-        button {
+        a {
             display:inline-block;
             border:0;
             height:32px;
+            line-height:30px;
             padding:0 18px;
             font-size:14px;
             font-weight:700;
             color:#fff;
             background:#51B329;
             border-radius:4px;
+            text-decoration:none;
 
             &:active {
                 position:relative;
