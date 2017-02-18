@@ -99,7 +99,7 @@ main {
             color:#999;
         }
     }
-    
+
 
     .hire {
         position:absolute;
@@ -322,7 +322,7 @@ main {
                         margin-right:2%;
                         float:left;
                         margin-bottom:8px;
-                        
+
                         &:nth-child(2n+2) {
                             margin-right:0;
                         }
@@ -413,7 +413,7 @@ main {
         }
     }
     .sidebar {
-        width:220px;
+        width:250px;
         left:auto;
         z-index:10;
         border-left:1px solid #e3e3e3;
@@ -464,7 +464,7 @@ main {
     }
 
     .content {
-        margin:0 0 0 220px;
+        margin:0 0 0 250px;
         background:#fff;
         z-index:11;
 
